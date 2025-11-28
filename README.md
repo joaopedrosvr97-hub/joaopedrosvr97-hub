@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4600&3500&color=00FF9C&center=true&vCenter=true&width=900&lines=🌃+João+Pedro+Online;💾+Gestão+de+TI+%7C+Data+Flow+Engineer;🔧+Power+BI+%7C+Python+%7C+Linux+%7COSINT;👾+Bem-vindo+ao+meu+GitHub!" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4800&3500&color=00FF9C&center=true&vCenter=true&width=900&lines=⚡Certifique-se+que+seu+Sistema+esteja+Rodando+a+100%!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4800&4500&color=00FF9C&center=true&vCenter=true&width=900&lines=⚡Certifique-se+que+seu+Sistema+esteja+Rodando+a+100%!" />
 </p>
 
 
@@ -11,7 +11,7 @@
 ---
 
 # 🚀 Sobre mim
-Sou estudante de **Gestão da Tecnologia da Informação**, com foco em **Análise de Dados**, **Automação**,**infraestrutura de Redes** e **Suporte Técnico**.
+Sou estudante de **Gestão da Tecnologia da Informação**, com foco em **Análise de Dados, Automação, Redes** e **Suporte Técnico**.
 
 No momento estou:
 - Aprimorando minhas habilidades em Python, SQL, ETL Power BI  
@@ -26,7 +26,7 @@ No momento estou:
 # 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,powershell,vscode,pycharm,js,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,powershell,vscode,js,mysql,linux,java,react,c" />
 </p>
 
 ---
@@ -48,28 +48,50 @@ Ferramenta completa com:
 - Scripts rápidos de diagnóstico  
 - Tudo em Python / PowerShell  
 
+*(Este será um dos seus projetos mais fortes!)*
+
 ---
 
-# 📈 Estatísticas do GitHub 
+---
+
+<br/>
+
+## 🚀 GitHub Status
+
 
 <p align="center">
-  <!-- Stats card -->
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrosvr97-hub&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=00ff00&title_color=00ff88&text_color=00ff44" />
-  <!-- Top langs -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrosvr97-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=joaopedrosvr97-hub&show_icons=true&theme=radical&title_color=FF006F&icon_color=00F0FF&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1" 
+    height="170"
+  />
+</p>
+
+  
+  <!-- Linguagens -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrosvr97-hub&layout=compact&theme=radical&title_color=00F0FF&text_color=FFFFFF&bg_color=0D1117" 
+    height="170"
+  />
 </p>
 
 ---
 
-### 🔥 Estatísticas Extras 
+## 🔥 Streaks (dias seguidos de contribuição)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joaopedrosvr97-hub&theme=matrix&hide_border=true&background=000000" />
+  <img 
+    src="https://streak-stats.demolab.com?user=joaopedrosvr97-hub&theme=highcontrast&fire=FF006F&ring=00F0FF&currStreakLabel=FFFFFF&background=0D1117"
+  />
 </p>
 
+---
+
+## 🧠 Gráfico de Atividades
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaopedrosvr97-hub&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=joaopedrosvr97-hub&bg_color=0D1117&color=00F0FF&line=FF006F&point=FFFFFF&area=true&area_color=FF006F"
+  />
 </p>
 
 
