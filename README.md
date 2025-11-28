@@ -11,7 +11,7 @@
 ---
 
 # 🚀 Sobre mim
-Sou estudante de **Gestão da Tecnologia da Informação**, com foco em **Análise de Dados, Automação,**infraestruturas de Redes** e **Suporte Técnico**.
+Sou estudante de **Gestão da Tecnologia da Informação**, com foco em Análise de Dados, Automação,infraestruturas de Redes** e **Suporte Técnico**.
 
 No momento estou:
 - Aprimorando minhas habilidades em Python, SQL, ETL Power BI  
