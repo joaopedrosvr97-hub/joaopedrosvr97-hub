@@ -62,11 +62,10 @@ Ferramenta completa com:
 
 ---
 
-### 🔥 Estatísticas Extras 
-
+### 🧠 Gráfico de Atividades
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=joaopedrosvr97-hub&theme=highcontrast&fire=FF006F&ring=00F0FF&currStreakLabel=FFFFFF&background=0D1117"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=joaopedrosvr97-hub&bg_color=0D1117&color=00F0FF&line=FF006F&point=FFFFFF&area=true&area_color=FF006F"
   />
 </p>
 
@@ -74,13 +73,6 @@ Ferramenta completa com:
   <img src="https://github-profile-trophy.vercel.app/?username=joaopedrosvr97-hub&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
-## 🧠 Gráfico de Atividades
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=joaopedrosvr97-hub&bg_color=0D1117&color=00F0FF&line=FF006F&point=FFFFFF&area=true&area_color=FF006F"
-  />
-</p>
 
 ---
 
