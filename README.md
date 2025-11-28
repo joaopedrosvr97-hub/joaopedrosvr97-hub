@@ -48,8 +48,6 @@ Ferramenta completa com:
 - Scripts rápidos de diagnóstico  
 - Tudo em Python / PowerShell  
 
-*(Este será um dos seus projetos mais fortes!)*
-
 ---
 
 # 📈 Estatísticas do GitHub 
