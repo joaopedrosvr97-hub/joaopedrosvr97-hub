@@ -1,6 +1,6 @@
         
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4600&3500&color=00FF9C&center=true&vCenter=true&width=900&lines=🌃+João+Pedro+Online;💾+Gestão+de+TI+%7C+Data+Flow+Engineer;🔧+Power+BI+%7C+Python+%7C+Linux+%7COSINT;👾+Bem-vindo+ao+meu+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4600&3500&color=00FF9C&center=true&vCenter=true&width=900&lines=🌃+João+Pedro+Online;💾+Gestão+de+TI+%7C+Data+Flow+Engineer;🔧+Power+BI+%7C+Python+%7C+Linux+%7COSINT;👾+hell-come+ao+meu+GitHub!" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4800&3500&color=00FF9C&center=true&vCenter=true&width=900&lines=⚡Certifique-se+que+seu+Sistema+esteja+Rodando+a+100%!" />
@@ -26,7 +26,7 @@ No momento estou:
 # 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,powershell,vscode,pycharm,js,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,powershell,vscode,js,mysql,linux" />
 </p>
 
 ---
@@ -52,29 +52,15 @@ Ferramenta completa com:
 
 # 📈 Estatísticas do GitHub 
 
-<p align="center">
-  <!-- Stats card -->
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrosvr97-hub&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=00ff00&title_color=00ff88&text_color=00ff44" />
-  <!-- Top langs -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrosvr97-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedrosvr97-hub&theme=tokyonight" />
 
-### 🧠 Gráfico de Atividades
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=joaopedrosvr97-hub&bg_color=0D1117&color=00F0FF&line=FF006F&point=FFFFFF&area=true&area_color=FF006F"
-  />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopedrosvr97-hub&theme=tokyonight" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaopedrosvr97-hub&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedrosvr97-hub&theme=tokyonight" />
 
-
----
+</div>
 
 
 ---
@@ -88,5 +74,6 @@ Ferramenta completa com:
 🖥️ GitHub: https://github.com/joaopedrosvr97-hub
 
 ---
+<div align="center">
 
 <p align="center"><b>Obrigado por visitar meu perfil! 🚀</b></p>
