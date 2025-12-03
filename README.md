@@ -14,7 +14,7 @@
 Sou estudante de **Gestão da Tecnologia da Informação**, com foco em **Análise de Dados**, **Automação**,**infraestrutura de Redes** e **Suporte Técnico**.
 
 No momento estou:
-- Aprimorando minhas habilidades em Python, SQL, ETL Power BI  
+- Aprimorando minhas habilidades em Python,HTML, SQL, ETL Power BI  
 - Criando projetos práticos para portfólio  
 - Explorando automações via HTTP, integração com dispositivos, OSINT 
 - Construindo ferramentas para suporte técnico  
