@@ -26,7 +26,7 @@ No momento estou:
 # 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,powershell,vscode,js,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,powershell,vscode,js,mysql,linux,html" />
 </p>
 
 ---
