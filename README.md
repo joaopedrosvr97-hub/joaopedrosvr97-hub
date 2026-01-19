@@ -49,22 +49,12 @@ Sou estudante de **Gestão da Tecnologia da Informação**, com foco em **Análi
 
 ---
 
-# 📂 Projetos em Desenvolvimento (em breve!)
+## 📊 Business Metrics (GitHub)
 
-### 🖥️ **Monitoramento de dispositivos na rede**
-Lista e gera relatório dos dispositivos conectados usando Python.
-
-### 📊 **Dashboard profissional – Power BI**
-Indicadores e KPIs com design limpo e navegação dinâmica.
-
-### 🛠️ **Canivete Suíço para Suporte Técnico (Toolkit)**
-Ferramenta completa com:
-- Testes de conexão  
-- Coleta de informações do sistema  
-- Limpeza de cache e DNS  
-- Monitoramento básico  
-- Scripts rápidos de diagnóstico  
-- Tudo em Python / PowerShell  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedrosvr97-hub&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedrosvr97-hub&theme=tokyonight" width="400" />
+</p>
 
 ---
 
