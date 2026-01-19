@@ -1,46 +1,78 @@
+        
 <p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
-
-<defs>
-<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0%" stop-color="#00FF9C" stop-opacity="0"/>
-<stop offset="50%" stop-color="#00FF9C" stop-opacity="0.35"/>
-<stop offset="100%" stop-color="#00FF9C" stop-opacity="0"/>
-</linearGradient>
-</defs>
-
-<!-- Fundo terminal -->
-<rect width="900" height="260" rx="18" fill="#0d1117"/>
-
-<!-- Scanner -->
-<rect x="0" y="-60" width="900" height="60" fill="url(#scan)">
-<animate attributeName="y" from="-60" to="260" dur="3.5s" repeatCount="indefinite"/>
-</rect>
-
-<!-- Texto terminal -->
-<g font-family="Consolas, monospace" font-size="18" fill="#00FF9C">
-
-<text x="30" y="45">[ SYSTEM ] Initializing...</text>
-
-<text x="30" y="75">
-João Pedro Online
-<animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
-</text>
-
-<text x="30" y="105">Role: Gestão de TI | Data Flow Engineer</text>
-
-<text x="30" y="135">Stack: Power BI | Python | Linux | OSINT</text>
-
-<text x="30" y="165">Status: ONLINE</text>
-
-<text x="30" y="195">
-Uptime: 99.98%
-<animate attributeName="fill" values="#00FF9C;#22C55E;#00FF9C" dur="1.5s" repeatCount="indefinite"/>
-</text>
-
-<text x="30" y="225">[ OK ] System running at 100%</text>
-
-</g>
-
-</svg>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4600&3500&color=00FF9C&center=true&vCenter=true&width=900&lines=🌃+João+Pedro+Online;💾+Gestão+de+TI+%7C+Data+Flow+Engineer;🔧+Power+BI+%7C+Python+%7C+Linux+%7COSINT;👾+hell-come+ao+meu+GitHub!" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=8500&color=00FF9C&center=true&vCenter=true&width=900&lines=⚡Certifique-se+que+seu+Sistema+esteja+Rodando+a+100%!" />
+</p>
+
+
+---
+---
+
+# 🚀 Sobre mim
+Sou estudante de **Gestão da Tecnologia da Informação**, com foco em **Análise de Dados**, **Automação**,**infraestrutura de Redes** e **Suporte Técnico**.
+
+No momento estou:
+- Aprimorando minhas habilidades em Python,HTML, SQL, ETL Power BI  
+- Criando projetos práticos para portfólio  
+- Explorando automações via HTTP, integração com dispositivos, OSINT 
+- Construindo ferramentas para suporte técnico  
+
+💡 *Meus primeiros projetos estão em desenvolvimento e serão publicados em breve!*
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,powershell,vscode,js,mysql,linux,html" />
+</p>
+
+---
+
+# 📂 Projetos em Desenvolvimento (em breve!)
+
+### 🖥️ **Monitoramento de dispositivos na rede**
+Lista e gera relatório dos dispositivos conectados usando Python.
+
+### 📊 **Dashboard profissional – Power BI**
+Indicadores e KPIs com design limpo e navegação dinâmica.
+
+### 🛠️ **Canivete Suíço para Suporte Técnico (Toolkit)**
+Ferramenta completa com:
+- Testes de conexão  
+- Coleta de informações do sistema  
+- Limpeza de cache e DNS  
+- Monitoramento básico  
+- Scripts rápidos de diagnóstico  
+- Tudo em Python / PowerShell  
+
+---
+
+# 📈 Estatísticas do GitHub 
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedrosvr97-hub&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopedrosvr97-hub&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedrosvr97-hub&theme=tokyonight" />
+
+</div>
+
+---
+
+# 📫 Contato
+📍 Brasília – DF  
+📧 Email: joaopedrosvr97@gmail.com 
+
+💼 LinkedIn: https://www.linkedin.com/in/joão-pedro-dos-santos-719424268 
+
+🖥️ GitHub: https://github.com/joaopedrosvr97-hub
+
+---
+<div align="center">
+
+<p align="center"><b>Obrigado por visitar meu perfil! 🚀</b></p>
