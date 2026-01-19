@@ -49,12 +49,6 @@ Sou estudante de **Gestão da Tecnologia da Informação**, com foco em **Análi
 
 ---
 
-## 📊 Business Metrics (GitHub)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedrosvr97-hub&theme=tokyonight" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedrosvr97-hub&theme=tokyonight" width="400" />
-</p>
 
 ---
 
