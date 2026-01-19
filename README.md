@@ -1,6 +1,6 @@
         
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4600&3500&color=00FF9C&center=true&vCenter=true&width=900&lines=🌃+João+Pedro+Online;💾+Gestão+de+TI+%7C+Data+Flow+Engineer;🔧+Power+BI+%7C+Python+%7C+Linux+%7COSINT;👾+hell-come+ao+meu+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4600&color=00FF9C&center=true&vCenter=true&width=900&lines=Jo%C3%A3o+Pedro;IT+Infrastructure+%26+Data+Operations;Network+Security+%7C+ETL+%7C+Linux;Optimizing+Systems+at+Full+Scale";👾+hell-come+ao+meu+GitHub!" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=8500&color=00FF9C&center=true&vCenter=true&width=900&lines=⚡Certifique-se+que+seu+Sistema+esteja+Rodando+a+100%!" />
