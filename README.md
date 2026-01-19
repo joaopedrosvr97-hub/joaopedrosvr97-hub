@@ -9,9 +9,8 @@
 
 ---
 ---
-
-# 🚀 Sobre mim
-Sou estudante de **Gestão da Tecnologia da Informação**, com foco em **Análise de Dados**, **Automação**,**infraestrutura de Redes** e **Suporte Técnico**.
+## 🌐 Executive Summary
+Profissional focado em **Gestão de Tecnologia da Informação**, especializado na convergência entre **Infraestrutura de Redes** e **Análise de Dados (DataOps)**. Desenvolvo soluções escaláveis para automação de suporte técnico, monitoramento de ativos e governança de dados, garantindo alta disponibilidade e integridade sistêmica.
 
 ## 🛠️ Tech Stack & Core Competencies
 
@@ -31,11 +30,6 @@ Sou estudante de **Gestão da Tecnologia da Informação**, com foco em **Análi
 - **Data Flow:** Coleta distribuída de logs e telemetria de rede.
 - **Security:** Diagnóstico de DNS, limpeza de cache e análise de vulnerabilidades locais.
 - **Tech:** Python / PowerShell Integration.
-
-### 📊 Corporate Governance Dashboard
-**Escopo:** BI de alta performance para monitoramento de KPIs e tomada de decisão executiva.
-- **Funcionalidades:** ETL automatizado, design focado em UX e navegação dinâmica.
-- **Impacto:** Visibilidade em tempo real de métricas operacionais críticas.
 
 ---
 
