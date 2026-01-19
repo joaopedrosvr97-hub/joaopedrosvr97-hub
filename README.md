@@ -63,6 +63,33 @@ Ferramenta completa com:
 </div>
 
 ## 🐍 GitHub Contributions 
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # roda todo dia
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 ![Snake animation](https://github.com/SEU_USUARIO/joaopedrosvr97-hub/blob/output/github-contribution-grid-snake.svg)
 
