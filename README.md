@@ -62,15 +62,6 @@ Ferramenta completa com:
 
 </div>
 
-## 🐍 GitHub Contributions 
-
-
-
-![Snake animation](https://github.com/joaopedrosvr97-hub/joaopedrosvr97-hubblob/output/github-contribution-grid-snake.svg)
-
-![Snake animation dark](https://github.com/joaopedrosvr97-hub/joaopedrosvr97-hub/blob/output/github-contribution-grid-snake-dark.svg)
-
-
 ---
 
 # 📫 Contato
