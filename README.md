@@ -5,9 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/System_Status-Running_at_100%25-00FF9C?style=for-the-badge&logo=opsgenie&logoColor=black" />
   <img src="https://img.shields.io/badge/Security_Level-Maximum-red?style=for-the-badge&logo=target" />
-</p>
----
----
+</p> 
+
 ## 🌐 Executive Summary
 Profissional focado em **Gestão de Tecnologia da Informação**, especializado na convergência entre **Infraestrutura de Redes** e **Análise de Dados (DataOps)**. Desenvolvo soluções escaláveis para automação de suporte técnico, monitoramento de ativos e governança de dados, garantindo alta disponibilidade e integridade sistêmica.
 
