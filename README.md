@@ -1,20 +1,12 @@
         
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kashida&color=00FF9C&height=100&section=header&text=SYSTEM%20ACCESS%20GRANTED&fontSize=40&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=3500&color=00FF9C&center=true&vCenter=true&width=900&lines=$+whoami:++JOÃO+PEDRO;$+exec:+IT+INFRA+&&+DATA+OPS;$+status:+OPTIMIZING+SYSTEMS;$+echo:+HELL-COME+TO+MY+SHELL" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=>>+INITIALIZING+JOÃO+PEDRO...;>>+ROLE:+IT+INFRASTRUCTURE+%26+DATA;>>+STK:+NET+SECURITY+%7C+ETL+%7C+LINUX;>>+OPTIMIZING+SYSTEMS+AT+SCALE...;👾+HELL-COME+TO+THE+GRID!" />
+  <img src="https://img.shields.io/badge/System_Status-Running_at_100%25-00FF9C?style=for-the-badge&logo=opsgenie&logoColor=black" />
+  <img src="https://img.shields.io/badge/Security_Level-Maximum-red?style=for-the-badge&logo=target" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&color=F50057&center=true&vCenter=true&width=700&lines=WARNING:+Ensure+system+is+running+at+100%25...;STATUS:+CRITICAL+EFFICIENCY+DETECTED" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
 ---
 ---
 ## 🌐 Executive Summary
