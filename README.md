@@ -1,4 +1,3 @@
-        
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=3500&color=00FF9C&center=true&vCenter=true&width=900&lines=$+whoami:++JOÃO+PEDRO;$+exec:+IT+INFRA+&&+DATA+OPS;$+status:+OPTIMIZING+SYSTEMS;$+echo:+HELL-COME+TO+MY+SHELL" />
 </p>
