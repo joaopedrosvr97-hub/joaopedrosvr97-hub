@@ -1,11 +1,19 @@
         
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4600&color=00FF9C&center=true&vCenter=true&width=900&lines=Jo%C3%A3o+Pedro;IT+Infrastructure+%26+Data+Operations;Network+Security+%7C+ETL+%7C+Linux;Optimizing+Systems+at+Full+Scale;👾+hell-come+ao+meu+GitHub!" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=8500&color=00FF9C&center=true&vCenter=true&width=900&lines=⚡Certifique-se+que+seu+Sistema+esteja+Rodando+a+100%!" />
+  <img src="https://capsule-render.vercel.app/render?type=kashida&color=00FF9C&height=100&section=header&text=SYSTEM%20ACCESS%20GRANTED&fontSize=40&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=>>+INITIALIZING+JOÃO+PEDRO...;>>+ROLE:+IT+INFRASTRUCTURE+%26+DATA;>>+STK:+NET+SECURITY+%7C+ETL+%7C+LINUX;>>+OPTIMIZING+SYSTEMS+AT+SCALE...;👾+HELL-COME+TO+THE+GRID!" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&color=F50057&center=true&vCenter=true&width=700&lines=WARNING:+Ensure+system+is+running+at+100%25...;STATUS:+CRITICAL+EFFICIENCY+DETECTED" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ---
 ---
