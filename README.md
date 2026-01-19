@@ -32,7 +32,7 @@ Sou estudante de **Gestão da Tecnologia da Informação**, com foco em **Análi
 - **Security:** Diagnóstico de DNS, limpeza de cache e análise de vulnerabilidades locais.
 - **Tech:** Python / PowerShell Integration.
 
-### 📊 [Corporate Governance Dashboard]
+### 📊 Corporate Governance Dashboard
 **Escopo:** BI de alta performance para monitoramento de KPIs e tomada de decisão executiva.
 - **Funcionalidades:** ETL automatizado, design focado em UX e navegação dinâmica.
 - **Impacto:** Visibilidade em tempo real de métricas operacionais críticas.
