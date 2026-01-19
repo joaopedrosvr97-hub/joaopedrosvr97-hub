@@ -1,10 +1,64 @@
         
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4600&3500&color=00FF9C&center=true&vCenter=true&width=900&lines=🌃+João+Pedro+Online;💾+Gestão+de+TI+%7C+Data+Flow+Engineer;🔧+Power+BI+%7C+Python+%7C+Linux+%7COSINT;👾+hell-come+ao+meu+GitHub!" />
+  <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+    
+    <!-- Fundo -->
+    <rect width="900" height="220" rx="16" fill="#0d1117"/>
+
+    <!-- Array de blocos -->
+    <g font-family="Segoe UI, sans-serif" font-size="22" font-weight="600">
+
+      <text x="450" y="45" text-anchor="middle">
+        🌃 João Pedro Online
+        <animate attributeName="fill"
+          values="#00FF9C;#00C8FF;#A855F7;#00FF9C"
+          dur="6s"
+          repeatCount="indefinite" />
+      </text>
+
+      <text x="450" y="85" text-anchor="middle">
+        💾 Gestão de TI | Data Flow Engineer
+        <animate attributeName="fill"
+          values="#00C8FF;#A855F7;#00FF9C;#00C8FF"
+          dur="6s"
+          repeatCount="indefinite" />
+      </text>
+
+      <text x="450" y="125" text-anchor="middle">
+        🔧 Power BI | Python | Linux | OSINT
+        <animate attributeName="fill"
+          values="#A855F7;#00FF9C;#00C8FF;#A855F7"
+          dur="6s"
+          repeatCount="indefinite" />
+      </text>
+
+      <text x="450" y="165" text-anchor="middle">
+        👾 hell-come ao meu GitHub!
+        <animate attributeName="fill"
+          values="#00FF9C;#22C55E;#00C8FF;#00FF9C"
+          dur="4s"
+          repeatCount="indefinite" />
+      </text>
+
+    </g>
+  </svg>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=8500&color=00FF9C&center=true&vCenter=true&width=900&lines=⚡Certifique-se+que+seu+Sistema+esteja+Rodando+a+100%!" />
+  <svg width="900" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg">
+    <rect width="900" height="70" rx="12" fill="#0d1117"/>
+
+    <text x="450" y="45" text-anchor="middle"
+          font-size="24" font-weight="700" font-family="Segoe UI, sans-serif">
+      ⚡ Certifique-se que seu sistema esteja rodando a 100%
+      <animate attributeName="fill"
+        values="#00FF9C;#FACC15;#F97316;#00FF9C"
+        dur="3s"
+        repeatCount="indefinite" />
+    </text>
+  </svg>
 </p>
+
 
 
 ---
