@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=3500&color=00FF9C&center=true&vCenter=true&width=900&lines=$+whoami:++JOÃO+PEDRO;$+exec:+IT+INFRA+&&+DATA+OPS;$+status:+OPTIMIZING+SYSTEMS;$+echo:+HELL-COME+TO+MY+SHELL" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4600&3500&color=00FF9C&center=true&vCenter=true&width=900&lines=🌃+João+Pedro+Online;💾+Gestão+de+TI+%7C+Data+Flow+Engineer;🔧+Power+BI+%7C+Python+%7C+Linux+%7COSINT;👾+hell-come+ao+meu+GitHub!" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=8500&color=00FF9C&center=true&vCenter=true&width=900&lines=⚡Certifique-se+que+seu+Sistema+esteja+Rodando+a+100%!" />
 </p>
 
 <p align="center">
