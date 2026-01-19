@@ -24,7 +24,20 @@ Sou estudante de **Gestão da Tecnologia da Informação**, com foco em **Análi
 
 ---
 
-💡 *Meus primeiros projetos estão em desenvolvimento e serão publicados em breve!*
+## 📂 Featured Strategic Projects
+
+### 🌩️ [Network Data Insights Toolkit](https://github.com/joaopedrosvr97-hub/Canivete-Sui-o-Python-Toolkit)
+**Escopo:** Ferramenta modular para diagnóstico avançado de rede e auditoria de sistemas.
+- **Data Flow:** Coleta distribuída de logs e telemetria de rede.
+- **Security:** Diagnóstico de DNS, limpeza de cache e análise de vulnerabilidades locais.
+- **Tech:** Python / PowerShell Integration.
+
+### 📊 [Corporate Governance Dashboard]
+**Escopo:** BI de alta performance para monitoramento de KPIs e tomada de decisão executiva.
+- **Funcionalidades:** ETL automatizado, design focado em UX e navegação dinâmica.
+- **Impacto:** Visibilidade em tempo real de métricas operacionais críticas.
+
+---
 
 ---
 
