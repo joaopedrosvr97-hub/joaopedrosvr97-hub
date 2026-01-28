@@ -58,10 +58,6 @@ Profissional focado em **Gestão de Tecnologia da Informação**, especializado 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedrosvr97-hub&theme=tokyonight" />
 
 </div>
-
-<!-- CONTRIBUTION GRAPH -->
-## <img src="./icons/fc11.png" width="28"/> `> git log --graph`
-
 ---
 
 # 📫 Contato
