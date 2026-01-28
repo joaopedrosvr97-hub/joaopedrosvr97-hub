@@ -59,6 +59,9 @@ Profissional focado em **Gestão de Tecnologia da Informação**, especializado 
 
 </div>
 
+<!-- CONTRIBUTION GRAPH -->
+## <img src="./icons/fc11.png" width="28"/> `> git log --graph`
+
 ---
 
 # 📫 Contato
