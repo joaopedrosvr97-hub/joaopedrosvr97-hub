@@ -47,16 +47,12 @@ Profissional focado em **Gestão de Tecnologia da Informação**, especializado 
 
 ---
 
-# 📈 Estatísticas do GitHub 
+## 📈 Estatísticas do GitHub
 
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedrosvr97-hub&theme=tokyonight" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopedrosvr97-hub&theme=tokyonight" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedrosvr97-hub&theme=tokyonight" />
-
 </div>
 
 # 📫 Contato
