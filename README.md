@@ -39,7 +39,7 @@ Profissional focado em **Gestão de Tecnologia da Informação**, especializado 
 # 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,powershell,vscode,js,mysql,linux,html,css,sql,typescript,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,powershell,vscode,mysql,linux,html,css,sql,typescript,javascript" />
 </p>
 
 ---
