@@ -47,9 +47,9 @@
 <tr><td><b>Infraestrutura & Redes</b></td><td><code>Linux Administration</code> · <code>Active Directory</code> · <code>Network Monitoring</code> · <code>Docker</code></td></tr>
 <tr><td><b>Automação & Segurança</b></td><td><code>PowerShell</code> · <code>Bash Scripting</code> · <code>OSINT</code> · <code>Integrações via API (HTTP)</code> · <code>System Hardening (SFC/DISM)</code></td></tr>
 <tr><td><b>Desenvolvimento Full-Stack</b> <i>(novo)</i></td><td><code>TypeScript</code> · <code>Node.js</code> · <code>Express</code> · <code>tRPC</code> · <code>React Native / Expo</code> · <code>NativeWind (Tailwind)</code></td></tr>
-<tr><td><b>Dados & Persistência</b> <i>(novo)</i></td><td><code>PostgreSQL</code> · <code>Drizzle ORM</code> · <code>Zod (validação)</code></td></tr>
-<tr><td><b>Autenticação & Testes</b> <i>(novo)</i></td><td><code>JWT</code> · <code>bcrypt</code> · <code>Vitest</code></td></tr>
-<tr><td><b>Redes de Baixo Nível</b> <i>(novo)</i></td><td><code>Scapy</code> · <code>Psutil</code> · <code>Npcap</code> · <code>Win32 API</code></td></tr>
+<tr><td><b>Dados & Persistência</b>  </i></td><td><code>PostgreSQL</code> · <code>Drizzle ORM</code> · <code>Zod (validação)</code></td></tr>
+<tr><td><b>Autenticação & Testes</b> </i></td><td><code>JWT</code> · <code>bcrypt</code> · <code>Vitest</code></td></tr>
+<tr><td><b>Redes de Baixo Nível</b>  </i></td><td><code>Scapy</code> · <code>Psutil</code> · <code>Npcap</code> · <code>Win32 API</code></td></tr>
 <tr><td><b>DevOps Workflow</b></td><td><code>Git</code> · <code>GitHub Actions (CI/CD)</code> · <code>pyproject.toml (PEP 517)</code> · <code>Environment Management</code></td></tr>
 </table>
 <br/>
