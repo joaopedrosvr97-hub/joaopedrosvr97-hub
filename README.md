@@ -78,13 +78,17 @@ Canivete Suíço de administração de sistemas para Windows e Linux, com GUI pr
 - 🔗 [Repositório](https://github.com/joaopedrosvr97-hub/Python-Toolkit)
 <br/>
 
-## Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
  
 <div align="center">
+<img src="https://raw.githubusercontent.com/joaopedrosvr97-hub/joaopedrosvr97-hub/output/github-snake-cyber.svg" width="100%" alt="Snake das contribuições" />
+<br/><br/>
+ 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedrosvr97-hub&theme=tokyonight" alt="GitHub Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopedrosvr97-hub&theme=tokyonight" alt="Top Langs"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedrosvr97-hub&theme=tokyonight" alt="Most Commit Language"/>
 </div>
+
 <br/>
 
 ## Contato
