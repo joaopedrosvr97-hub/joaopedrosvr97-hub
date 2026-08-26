@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00F5C9&height=200&section=header&text=Jo%C3%A3o%20Pedro%20V.&fontSize=42&fontColor=ffffff&desc=DevOps%20%7C%20Data%20Engineer%20%7C%20SysAdmin&descSize=18&descAlignY=65" width="100%"/>
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4600&3500&color=00FF9C&center=true&vCenter=true&width=900&lines=🌃+João+Pedro+Online;💾+Gestão+de+TI+%7C+Data+Flow+Engineer;🔧+Power+BI+%7C+Python+%7C+Linux+%7CLMS's;👾+hell-come+ao+meu+GitHub!" />
 </p>
 <p align="center">
