@@ -22,43 +22,34 @@
  
 </div>
 <br/>
-## 🌐 Sobre mim
- 
-Profissional focado em **Gestão de Tecnologia da Informação**, atuando na convergência entre **Infraestrutura de Redes**, **Automação** e **Análise de Dados (DataOps)**. Desenvolvo ferramentas e soluções para diagnóstico de sistemas, monitoramento de ativos, hardening e governança de dados — sempre com foco em confiabilidade e redução de downtime operacional.
- 
-Ao longo dos projetos recentes, ampliei minha atuação também para **desenvolvimento full-stack**, construindo aplicações completas com backend em Node.js/TypeScript, APIs tipadas com tRPC e apps mobile em React Native, aplicando os mesmos princípios de segurança e organização usados em ambientes de infraestrutura.
- 
-**Áreas de interesse:** automação de suporte técnico, observabilidade, engenharia de dados (ETL/BI), segurança de sistemas e integração de LLMs em fluxos de trabalho.
- 
-<br/>
 ## 🛠️ Tecnologias & Ferramentas
  
 <div align="center">
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
- 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </div>
-| Domínio | Tecnologias |
-|---|---|
-| **Data Engineering** | `Python (Pandas/NumPy)` · `SQL` · `Power BI (DAX/M)` · `Processos ETL` |
-| **Infraestrutura & Redes** | `Linux Administration` · `Active Directory` · `Network Monitoring` · `Docker` |
-| **Automação & Segurança** | `PowerShell` · `Bash Scripting` · `OSINT` · `Integrações via API (HTTP)` · `System Hardening (SFC/DISM)` |
-| **Desenvolvimento Full-Stack** *(novo)* | `TypeScript` · `Node.js` · `Express` · `tRPC` · `React Native / Expo` · `NativeWind (Tailwind)` |
-| **Dados & Persistência** *(novo)* | `PostgreSQL` · `Drizzle ORM` · `Zod (validação)` |
-| **Autenticação & Testes** *(novo)* | `JWT` · `bcrypt` · `Vitest` |
-| **Redes de Baixo Nível** *(novo)* | `Scapy` · `Psutil` · `Npcap` · `Win32 API` |
-| **DevOps Workflow** | `Git` · `GitHub Actions (CI/CD)` · `pyproject.toml (PEP 517)` · `Environment Management` |
- 
+<br/>
+<table>
+<tr><th>Domínio</th><th>Tecnologias</th></tr>
+<tr><td><b>Data Engineering</b></td><td><code>Python (Pandas/NumPy)</code> · <code>SQL</code> · <code>Power BI (DAX/M)</code> · <code>Processos ETL</code></td></tr>
+<tr><td><b>Infraestrutura & Redes</b></td><td><code>Linux Administration</code> · <code>Active Directory</code> · <code>Network Monitoring</code> · <code>Docker</code></td></tr>
+<tr><td><b>Automação & Segurança</b></td><td><code>PowerShell</code> · <code>Bash Scripting</code> · <code>OSINT</code> · <code>Integrações via API (HTTP)</code> · <code>System Hardening (SFC/DISM)</code></td></tr>
+<tr><td><b>Desenvolvimento Full-Stack</b> <i>(novo)</i></td><td><code>TypeScript</code> · <code>Node.js</code> · <code>Express</code> · <code>tRPC</code> · <code>React Native / Expo</code> · <code>NativeWind (Tailwind)</code></td></tr>
+<tr><td><b>Dados & Persistência</b> <i>(novo)</i></td><td><code>PostgreSQL</code> · <code>Drizzle ORM</code> · <code>Zod (validação)</code></td></tr>
+<tr><td><b>Autenticação & Testes</b> <i>(novo)</i></td><td><code>JWT</code> · <code>bcrypt</code> · <code>Vitest</code></td></tr>
+<tr><td><b>Redes de Baixo Nível</b> <i>(novo)</i></td><td><code>Scapy</code> · <code>Psutil</code> · <code>Npcap</code> · <code>Win32 API</code></td></tr>
+<tr><td><b>DevOps Workflow</b></td><td><code>Git</code> · <code>GitHub Actions (CI/CD)</code> · <code>pyproject.toml (PEP 517)</code> · <code>Environment Management</code></td></tr>
+</table>
 <br/>
 ## 📂 Projetos em destaque
  
@@ -85,18 +76,16 @@ Canivete Suíço de administração de sistemas para Windows e Linux, com GUI pr
 ## 📈 Estatísticas do GitHub
  
 <div align="center">
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedrosvr97-hub&theme=tokyonight)
- 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopedrosvr97-hub&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedrosvr97-hub&theme=tokyonight)
- 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedrosvr97-hub&theme=tokyonight" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopedrosvr97-hub&theme=tokyonight" alt="Top Langs"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedrosvr97-hub&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 <br/>
 ## 📫 Contato
  
 <div align="center">
-📍 Brasília – DF &nbsp;|&nbsp; 📧 [joaopedrosvr97@gmail.com](mailto:joaopedrosvr97@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-719424268) &nbsp;|&nbsp; 🖥️ [GitHub](https://github.com/joaopedrosvr97-hub)
+📍 Brasília – DF &nbsp;|&nbsp; 📧 <a href="mailto:joaopedrosvr97@gmail.com">joaopedrosvr97@gmail.com</a> &nbsp;|&nbsp; 💼 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-719424268">LinkedIn</a> &nbsp;|&nbsp; 🖥️ <a href="https://github.com/joaopedrosvr97-hub">GitHub</a>
  
-**Obrigado por visitar meu perfil! 🚀**
+<b>Obrigado por visitar meu perfil! 🚀</b>
  
 </div>
