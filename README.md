@@ -54,15 +54,15 @@
 </table>
 <br/>
 
-## 📂 Projetos em destaque
+##  Projetos em destaque
  
-### 🔪 [Canivete Suíço — Network Toolkit](https://github.com/joaopedrosvr97-hub/Canivete-Suico-Network-Toolkit-Showcase)
+###  [Canivete Suíço — Network Toolkit](https://github.com/joaopedrosvr97-hub/Canivete-Suico-Network-Toolkit-Showcase)
 Suite modular de diagnóstico de rede e auditoria de sistemas, estruturada em `src-layout` (v0.5.0 "Enterprise Edition").
 - **Módulos:** captura e auditoria de tráfego DNS, scanner de sub-rede, monitoramento de I/O em tempo real, detecção heurística de anomalias (beta), fingerprint de dispositivos por MAC/vendor, automação de hardening e reparo de SO (SFC/DISM).
 - **Interface:** dashboard moderno com CustomTkinter + CLI para automação via scripts.
 - **Tech:** `Python 3.9+` · `Scapy` · `Psutil` · `Npcap` · `CustomTkinter` · `Win32 API` · `GitHub Actions`
 - 🔗 [Repositório](https://github.com/joaopedrosvr97-hub/Canivete-Suico-Network-Toolkit-Showcase)
-### 💪 [F3 Fitness — App + Backend](https://github.com/joaopedrosvr97-hub/APLICATIVO-Example-Fitness)
+###  [F3 Fitness — App + Backend](https://github.com/joaopedrosvr97-hub/APLICATIVO-Example-Fitness)
 Aplicativo de fitness mobile com backend próprio em Node.js/TypeScript, API tipada ponta a ponta e persistência relacional.
 - **Backend:** API com Express + tRPC, autenticação via OAuth (sessão JWT + cookie HTTP-only / Bearer token no mobile), senhas com hash `bcrypt`, validação com `zod`.
 - **Dados:** PostgreSQL via Drizzle ORM, com migrations versionadas.
@@ -70,14 +70,14 @@ Aplicativo de fitness mobile com backend próprio em Node.js/TypeScript, API tip
 - **Qualidade:** testes automatizados com `vitest` cobrindo rotas de autenticação.
 - **Tech:** `TypeScript` · `Node.js` · `Express` · `tRPC` · `Drizzle ORM` · `PostgreSQL` · `React Native` · `Expo`
 - 🔗 [Repositório](https://github.com/joaopedrosvr97-hub/APLICATIVO-Example-Fitness)
-### 🐍 [Python-Toolkit](https://github.com/joaopedrosvr97-hub/Python-Toolkit)
+###  [Python-Toolkit](https://github.com/joaopedrosvr97-hub/Python-Toolkit)
 Canivete Suíço de administração de sistemas para Windows e Linux, com GUI própria.
 - Centraliza e automatiza diagnósticos de rede, reparos de sistema (SFC/DISM), limpeza e otimização de máquinas.
 - **Tech:** `Python`
 - 🔗 [Repositório](https://github.com/joaopedrosvr97-hub/Python-Toolkit)
 <br/>
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
  
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedrosvr97-hub&theme=tokyonight" alt="GitHub Stats"/>
@@ -86,7 +86,7 @@ Canivete Suíço de administração de sistemas para Windows e Linux, com GUI pr
 </div>
 <br/>
 
-## 📫 Contato
+## Contato
  
 <div align="center">
 📍 Brasília – DF &nbsp;|&nbsp; 📧 <a href="mailto:joaopedrosvr97@gmail.com">joaopedrosvr97@gmail.com</a> &nbsp;|&nbsp; 💼 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-719424268">LinkedIn</a> &nbsp;|&nbsp; 🖥️ <a href="https://github.com/joaopedrosvr97-hub">GitHub</a>
