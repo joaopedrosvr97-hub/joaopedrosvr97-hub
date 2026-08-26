@@ -76,6 +76,7 @@ Canivete Suíço de administração de sistemas para Windows e Linux, com GUI pr
 - **Tech:** `Python`
 - 🔗 [Repositório](https://github.com/joaopedrosvr97-hub/Python-Toolkit)
 <br/>
+
 ## 📈 Estatísticas do GitHub
  
 <div align="center">
