@@ -22,6 +22,7 @@
  
 </div>
 <br/>
+
  ## Tecnologias & Ferramentas
  
 <div align="center">
@@ -38,6 +39,7 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </div>
+
 <br/>
 <table>
 <tr><th>Domínio</th><th>Tecnologias</th></tr>
@@ -51,6 +53,7 @@
 <tr><td><b>DevOps Workflow</b></td><td><code>Git</code> · <code>GitHub Actions (CI/CD)</code> · <code>pyproject.toml (PEP 517)</code> · <code>Environment Management</code></td></tr>
 </table>
 <br/>
+
 ## 📂 Projetos em destaque
  
 ### 🔪 [Canivete Suíço — Network Toolkit](https://github.com/joaopedrosvr97-hub/Canivete-Suico-Network-Toolkit-Showcase)
@@ -81,6 +84,7 @@ Canivete Suíço de administração de sistemas para Windows e Linux, com GUI pr
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopedrosvr97-hub&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 <br/>
+
 ## 📫 Contato
  
 <div align="center">
